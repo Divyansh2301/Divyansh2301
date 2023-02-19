@@ -4,9 +4,9 @@
 - 🥅 Looking forward to contributing more to open-source projects and job opportunities.
 ---
 ### Languages and Tools
-![Java](https://img.shields.io/badge/-Java-A67A94?style=plastic&logo=java)
+![Java](https://img.shields.io/badge/-Java-A67A94?style=plastic&logo=Java)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-E34A26?style=plastic&logo=SpringBoot)
-![HTML5](https://img.shields.io/badge/-HTML5-336791?style=plastic&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-ff69b4?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-Q67A94?style=plastic&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
